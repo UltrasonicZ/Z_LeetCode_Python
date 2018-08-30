@@ -1,2 +1,2 @@
 # Z_LeetCode
-about how to AC leetcode, welcome to discuss.
+about how to AC leetcode with Python, welcome to discuss.
