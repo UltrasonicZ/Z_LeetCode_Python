@@ -1,0 +1,2 @@
+#!/bin/bash
+awk '{ for(i=1;i<=NF; i++){ print $i }}' words.txt | sort | uniq -c | awk '{print $2,$1}' | sort -t ' ' -k2nr
